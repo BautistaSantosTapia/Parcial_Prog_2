@@ -1,0 +1,22 @@
+-d
+"C:\\Users\\Fernando Santos\\Desktop\\UTN\\TercerCuatrimestre\\Prog2\\SantosTapia_Parcial_2\\build\\classes"
+-classpath
+"C:\\Users\\Fernando Santos\\Desktop\\UTN\\TercerCuatrimestre\\Prog2\\SantosTapia_Parcial_2\\build\\classes"
+-sourcepath
+"C:\\Users\\Fernando Santos\\Desktop\\UTN\\TercerCuatrimestre\\Prog2\\SantosTapia_Parcial_2\\build\\empty"
+-target
+21
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Users\\Fernando Santos\\Desktop\\UTN\\TercerCuatrimestre\\Prog2\\SantosTapia_Parcial_2\\build\\empty"
+-s
+"C:\\Users\\Fernando Santos\\Desktop\\UTN\\TercerCuatrimestre\\Prog2\\SantosTapia_Parcial_2\\build\\generated-sources\\ap-source-output"
+-source
+21
+"C:\\Users\\Fernando Santos\\Desktop\\UTN\\TercerCuatrimestre\\Prog2\\SantosTapia_Parcial_2\\src\\santostapia_parcial_2\\CSVSerializable.java"
+"C:\\Users\\Fernando Santos\\Desktop\\UTN\\TercerCuatrimestre\\Prog2\\SantosTapia_Parcial_2\\src\\santostapia_parcial_2\\Categoria.java"
+"C:\\Users\\Fernando Santos\\Desktop\\UTN\\TercerCuatrimestre\\Prog2\\SantosTapia_Parcial_2\\src\\santostapia_parcial_2\\Inventario.java"
+"C:\\Users\\Fernando Santos\\Desktop\\UTN\\TercerCuatrimestre\\Prog2\\SantosTapia_Parcial_2\\src\\santostapia_parcial_2\\NaveEspacial.java"
+"C:\\Users\\Fernando Santos\\Desktop\\UTN\\TercerCuatrimestre\\Prog2\\SantosTapia_Parcial_2\\src\\santostapia_parcial_2\\TestSantosTapia_Parcial_2.java"
